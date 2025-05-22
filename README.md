@@ -1,29 +1,63 @@
-# portfolioErfan
+# Portfolio de Erfan Ribas
 
-This template should help get you started developing with Vue 3 in Vite.
+Bienvenido a mi portfolio personal, desarrollado con Vue 3 y Vite. Aquí encontrarás información sobre mi experiencia profesional, formación académica y habilidades técnicas.
 
-## Recommended IDE Setup
+## Experiencia Profesional
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- **Desarrollador Web**  
+  *Indian Webs (2024-2025)*  
+  Prácticas del ciclo DAW, desarrollando aplicaciones web.
 
-## Customize configuration
+- **Velador**  
+  *Fundaesplai (2021-2023)*  
+  Apoyo a niños y jóvenes en actividades educativas y de ocio.
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+- **TEI y Monitor**  
+  *Escola Padre Damián Sagrados Corazones (2022)*  
+  Acompañamiento a alumnos en su desarrollo personal y académico.
 
-## Project Setup
+- **Camarero**  
+  *LleurEsport (2019-2021)*  
+  Atención al cliente y colaboración en eventos.
+
+- **Auxiliar Administrativo**  
+  *ICS (2020)*  
+  Gestión documental y atención al público.
+
+## Formación Académica
+
+- **DAW - Desarrollo de Aplicaciones Web**  
+  Centre d'Estudis Politécnics (2023-2025)
+
+- **Grado Universitario en Educación Infantil**  
+  Blanquerna - Ramón Llull (2017-2022)
+
+- **Bachillerato**  
+  Institut Obert de Catalunya (2013-2015)
+
+## Skills
+
+- HTML, CSS, JavaScript
+- Vue.js, Laravel, PHP
+- Bootstrap, MySQL, Docker
+- GitHub, WordPress
+- Java, Figma
+
+---
+
+### Instalación y uso
 
 ```sh
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+Compila para producción:
 
 ```sh
 npm run build
 ```
+
+---
+
+Desarrollado por Erfan Ribas.
