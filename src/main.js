@@ -4,8 +4,8 @@
 import './assets/main.css'
 
 // Bootstrap
-import 'bootstrap/dist/css/bootstrap.min.css'
-import 'bootstrap'
+// import 'bootstrap/dist/css/bootstrap.min.css'
+// import 'bootstrap'
 
 // Vue
 import { createApp } from 'vue'
