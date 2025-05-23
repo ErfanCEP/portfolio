@@ -10,7 +10,7 @@
                 <p>2023-2025</p>
             </div>
             <div class="col-6 my-5">
-                <img :src=" '/img/CEP.png' " alt="Erfan Ribas" class="img-fluid rounded img-estudios" />
+                <img :src=" '/img/log_cep.jpg' " alt="Erfan Ribas" class="img-fluid rounded img-estudios" />
             </div>
              <div class="col-6 my-5">
                 <h1>Grado Universitario Educación Infantil</h1>
@@ -26,7 +26,7 @@
                 <p>2013-2015</p>
             </div>
             <div class="col-6 my-5">
-                <img :src=" '/img/ioc.png' " alt="Erfan Ribas" class="img-fluid rounded img-estudios" />
+                <img :src=" '/img/log_ioc.jpg' " alt="Erfan Ribas" class="img-fluid rounded img-estudios" />
             </div>
         </div>
     </div>
